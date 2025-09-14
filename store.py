@@ -1,8 +1,8 @@
-balance = 200
+balance = 2000
 cart = []
 
-store = {"cup": 18, "trousers": 80, "shirt": 65}
-prices = {"cup": 5, "trousers": 30, "shirt": 15,}
+store = {"cup": 20, "trousers": 60, "shirt": 40}
+prices = {"cup": 50, "trousers": 200, "shirt": 150,}
 
 while True:
     choice = input("Type 'store' or 'exit': ")
